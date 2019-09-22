@@ -1,0 +1,9 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+:not(.content) {
+    ol, ul {
+        list-style-type: none;
+    }
+}
